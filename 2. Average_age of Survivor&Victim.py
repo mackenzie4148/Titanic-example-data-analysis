@@ -26,10 +26,11 @@ ave_non_survived_age = sum(non_survived_age)/len(non_survived_age)
 
 ave_non_survived_age = round(ave_non_survived_age,2)
 
-print("the ave_age of survivors is {}".format(ave_survived_age))
-print("the ave_age of victims is {}".format(ave_non_survived_age))
+print("The ave_age of survivors is {}".format(ave_survived_age))
+print("The ave_age of victims is {}".format(ave_non_survived_age))
 
-
+# The ave_age of survivors is 31.71
+# The ave_age of victims is 42.65
 
 
 
