@@ -1,7 +1,7 @@
 # Titanic-example-data-analysis
 Titanic example is an accessible approach to start the learning of Data analysis by using Python
 
-Indeed, many data sets existed are, by and large, still somehow difficult for me to start since I don't have a solid python coding skills.
+Indeed, many data sets that exist are, by and large, still somehow difficult for me to start since I don't have a solid python coding skills.
 I tried to use a comparatively small data to present a comprehensive use of data analysis codes in Python, basically, seven parts.
 
 Here is the index of my codes
@@ -24,4 +24,17 @@ the range is：263.0
 the variance is：4260.61
 the standard deviation is：65.27
 
-4.
+4. The result of Current value of one ticket.py is:
+delete abnormal value 56.5
+delete abnormal value 133.65
+delete abnormal value 120.0
+delete abnormal value 151.55
+delete abnormal value 89.1
+delete abnormal value 73.5
+delete abnormal value 52.0
+delete abnormal value 39.0
+The average price(pounds) of tickets is 13.0
+The face value(pounds) of one ticket is 1300.0
+
+5.
+
