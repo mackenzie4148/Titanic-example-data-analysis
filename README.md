@@ -50,5 +50,7 @@ The face value(pounds) of one ticket is 1300.0
 
 5. The chart of Code 5
 
+6. Part 6 tried to find if there is a correlation between the age of passengers and the prices of their tickets, the result is below
+
 
  
