@@ -24,16 +24,26 @@ the range is：263.0
 the variance is：4260.61
 the standard deviation is：65.27
 
-4. The result of Current value of one ticket.py is:
+4. The result of the Current value of one ticket.py is:
+
 delete abnormal value 56.5
+
 delete abnormal value 133.65
+
 delete abnormal value 120.0
+
 delete abnormal value 151.55
+
 delete abnormal value 89.1
+
 delete abnormal value 73.5
+
 delete abnormal value 52.0
+
 delete abnormal value 39.0
+
 The average price(pounds) of tickets is 13.0
+
 The face value(pounds) of one ticket is 1300.0
 
 5.
