@@ -1,8 +1,8 @@
 # Titanic-example-data-analysis
 Titanic example is an accessible approach to start the learning of Data analysis by using Python
 
-Indeed, many data sets that exist are, by and large, still somehow difficult for me to start since I don't have a solid python coding skills.
-I tried to use a comparatively small data to present a comprehensive use of data analysis codes in Python, basically, seven parts.
+Indeed, many data sets that exist are, by and large, still somehow difficult for me to start since I don't have solid python coding skills.
+When I was honing my code skills, I happened to find a small case pertaining to Titanic disaster and that's why I tried to use a comparatively small data to present a comprehensive use of data analysis codes in Python, basically, seven parts.
 
 Here is the index of my codes
 1. 
@@ -52,5 +52,10 @@ The face value(pounds) of one ticket is 1300.0
 
 6. Part 6 tried to find if there is a correlation between the age of passengers and the prices of their tickets, the result is below
 
+In the two lists
+
+The correlation of prices and age is ：
+
+-0.05710014540497912
 
  
