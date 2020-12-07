@@ -48,5 +48,7 @@ The average price(pounds) of tickets is 13.0
 
 The face value(pounds) of one ticket is 1300.0
 
-5.
+5. The chart of Code 5
 
+
+ 
