@@ -5,11 +5,12 @@ Indeed, many data sets that exist are, by and large, still somehow difficult for
 When I was honing my code skills, I happened to find a small case pertaining to Titanic disaster and that's why I tried to use a comparatively small data to present a comprehensive use of data analysis codes in Python, basically, seven parts.
 
 Here is the index of my codes
-1. 
 
-2. The average ages of survivors and victims are recpetively:
-   # The ave_age of survivors is 31.71
-   # The ave_age of victims is 42.65
+1. The chart of gender and the numbers of survivors and victims
+
+2. The average ages of survivors and victims are respectively:
+   The ave_age of survivors is 31.71
+   The ave_age of victims is 42.65
 
 
 3. Statistic Analysis of Tickets.py
