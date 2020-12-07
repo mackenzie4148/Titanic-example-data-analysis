@@ -45,3 +45,7 @@ def correlation(x, y):
 print("In the two lists")
 print("The correlation of prices and age is ：")
 print(correlation(prices_fare, passengers_age)) 
+
+#In the two lists
+The correlation between prices and age is ：
+-0.05710014540497912
